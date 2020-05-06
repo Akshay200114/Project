@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.color{
+    background-color:skyblue;
+
+}
+.style{
+    margin-top: 25px;
+    text-align-last: justify;
+    padding-left: 50px;
+    font-size: 50px;
+    font-weight: 800;
+    font-family: sans-serif;
+    margin-bottom: 15px;
+    background-image: url(D://photos/12.jpg);
+    font-variant: small-caps;
+    font: outline;;
+
+}
+#nav {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	margin-top: 30px;
+}
+	
+#nav ul {
+    float: right;
+  
+}
+#nav li{
+    display:inline-block;
+    margin-left: 30px;
+    margin-right: 45px;
+}
+
+#nav a {
+	text-decoration: none;
+	font-family: Cambria, serif;
+	font-size: 25px;
+	font-style: normal;
+	font-weight: normal;
+	text-transform: normal;
+	letter-spacing: normal;
+	line-height: 1.3em;
+    color: lightblue;
+    background-color: #000;
+    border-radius: 8px;
+}
+
+#nav a:hover {
+	text-decoration: none;
+	font-family: Cambria, serif;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: normal;
+    text-transform: normal;
+}
+hr{
+    background-color: chocolate;
+    margin: 5px;
+    background: black;
+    
+    width: 100%;
+}
+.move{
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 120px;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: bolder;
+    font-variant: small-caps;
+    text-align: center;
+    background-image:linear-gradient( #eb01a5, #d13531,blue,yellow);
+    border-radius: 20px;
+    color: khaki;
+
+}
+.service li{
+    display: inline-block;
+    font-size: 40px;
+    margin-left: 70px;
+    background-image: url(D://photos/hotel1.jpg);
+    margin-top: 30px;
+    text-align: center;
+    border-radius: 15px;
+    font-variant: small-caps;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: darkblue;
+    font-display: 20px;
+}
+.row{
+    margin-top: 50px;
+    width: 100%;
+
+    
+}
+.col a img{
+    margin-left:30px;
+    border-radius: 50px;
+}
+
+
